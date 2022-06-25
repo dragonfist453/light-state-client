@@ -2,12 +2,14 @@
   "name": "light-state-client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dragonfist453.github.io/light-state-client",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
     "dotenv": "^16.0.1",
+    "gh-pages": "^4.0.0",
     "grommet": "^2.24.0",
     "grommet-icons": "^4.7.0",
     "lodash": "^4.17.21",
@@ -23,7 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
