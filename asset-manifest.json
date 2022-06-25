@@ -1,13 +1,13 @@
 {
   "main.css": "/light-state-client/static/css/main.4e83aeb6.chunk.css",
-  "main.js": "/light-state-client/static/js/main.ddd22324.chunk.js",
-  "main.js.map": "/light-state-client/static/js/main.ddd22324.chunk.js.map",
+  "main.js": "/light-state-client/static/js/main.e730bf81.chunk.js",
+  "main.js.map": "/light-state-client/static/js/main.e730bf81.chunk.js.map",
   "static/js/1.d2448104.chunk.js": "/light-state-client/static/js/1.d2448104.chunk.js",
   "static/js/1.d2448104.chunk.js.map": "/light-state-client/static/js/1.d2448104.chunk.js.map",
   "runtime~main.js": "/light-state-client/static/js/runtime~main.ad80ef48.js",
   "runtime~main.js.map": "/light-state-client/static/js/runtime~main.ad80ef48.js.map",
   "static/css/main.4e83aeb6.chunk.css.map": "/light-state-client/static/css/main.4e83aeb6.chunk.css.map",
   "index.html": "/light-state-client/index.html",
-  "precache-manifest.f0f437d0e2d85bf4d2269dceaace0082.js": "/light-state-client/precache-manifest.f0f437d0e2d85bf4d2269dceaace0082.js",
+  "precache-manifest.6a221ff4eb14f4e91f87491dc3f82efa.js": "/light-state-client/precache-manifest.6a221ff4eb14f4e91f87491dc3f82efa.js",
   "service-worker.js": "/light-state-client/service-worker.js"
 }

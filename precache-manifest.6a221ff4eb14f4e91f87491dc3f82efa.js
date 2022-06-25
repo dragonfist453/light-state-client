@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ddd22324af2b91dcae6b",
+    "revision": "e730bf81daa6743693da",
     "url": "/light-state-client/static/css/main.4e83aeb6.chunk.css"
   },
   {
-    "revision": "ddd22324af2b91dcae6b",
-    "url": "/light-state-client/static/js/main.ddd22324.chunk.js"
+    "revision": "e730bf81daa6743693da",
+    "url": "/light-state-client/static/js/main.e730bf81.chunk.js"
   },
   {
     "revision": "d24481045266d2cf7742",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/light-state-client/static/js/runtime~main.ad80ef48.js"
   },
   {
-    "revision": "9927e20f4acea6e8dadd9a89890dcd35",
+    "revision": "8c4a28edfe3c0f5eecbe8d5717c2a79c",
     "url": "/light-state-client/index.html"
   }
 ];
