@@ -151,6 +151,13 @@ function App() {
             _.isEqual(obj1, obj2)
           )
       );
+      if (newConns.length) {
+        if ((lightSettings.length === 1 && lightSettings.includes("roomLight"))) {
+          newConns.push(powerToRoom);
+        } else {
+          newConns.push(powerToHall);
+        }
+      }
     } else {
       newLights = newLights.concat(lightSettings);
       newConns = newConns.concat(getConnectionsBySettings(lightSettings));
